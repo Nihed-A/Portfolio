@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Student Mobility Web Application",
+    "imageSrc": "projects/project.png",
+    "description": "Development of a web application for student mobility using microservices architecture.",
+    "skills": ["Java", "Spring", "Node.js", "MongoDB", "MySQL", "Angular", "Eureka", "Spring Cloud Gateway", "Keycloak"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CI/CD Pipeline and Automation",
+    "imageSrc": "projects/project.png",
+    "description": "Establishing a CI/CD pipeline for an application, integrating unit tests with Mock, automation via Jenkins, and deployment through Nexus and DockerHub. Includes testing with Postman and Swagger, and monitoring with Grafana and Prometheus.",
+    "skills": ["Jenkins", "Docker", "Nexus", "Postman", "Swagger", "Grafana", "Prometheus"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Car Rental Mobile App",
+    "imageSrc": "projects/project.png",
+    "description": "Development of an Android mobile app for car rental services using Java.",
+    "skills": ["Java", "Android"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "SPEEDSHOP E-Commerce Application",
+    "imageSrc": "projects/project.png",
+    "description": "Development of an e-commerce web application with a focus on high-performance and scalability.",
+    "skills": ["Java", "Spring", "Angular", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

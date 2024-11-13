@@ -1,0 +1,55 @@
+[
+  {
+    "role": "Software and Cloud Engineering Intern",
+    "organisation": "ADDIXO",
+    "startDate": "Feb, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": [
+      "Designed microservices architecture for digitalizing factory operations",
+      "Configured databases: MySQL, MongoDB, MariaDB, Redis",
+      "Ensured communication between microservices",
+      "Deployed and configured Kong API Gateway for managing microservices communication",
+      "Integrated Keycloak for secure user authentication and authorization",
+      "Set up monitoring and dashboards using Grafana and Prometheus"
+    ],
+    "imageSrc": "history/addixo.png"
+  },
+  {
+    "role": "Frontend Developer Intern",
+    "organisation": "Elaco",
+    "startDate": "Jul, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": [
+      "Developed a web application to connect contributors with professional opportunities",
+      "Built pages: Homepage, Job Search, Mission Posting, User Profile, and Dashboard",
+      "Integrated React.js with Rust and Web3 blockchain for decentralized functionality"
+    ],
+    "imageSrc": "history/Elaco.png"
+  },
+  {
+    "role": "DevOps/Cloud Intern",
+    "organisation": "CONVERGEN",
+    "startDate": "Jun, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Deployed liveMetrics application on DigitalOcean",
+      "Created and configured Droplets on DigitalOcean",
+      "Built Docker images and managed deployments using Docker Compose",
+      "Set up CI/CD pipeline with Jenkins for automated updates"
+    ],
+    "imageSrc": "history/convergen.png"
+  },
+  {
+    "role": "System and Network Administrator Intern",
+    "organisation": "ADVENCES",
+    "startDate": "Feb, 2021",
+    "endDate": "Jul, 2021",
+    "experiences": [
+      "Implemented infrastructure on AWS to ensure service availability",
+      "Set up monitoring using Nagios Core and centralized logging with Graylog",
+      "Configured Postfix mail server and Microsoft SQL database on Ubuntu",
+      "Managed network security with Sophos firewall"
+    ],
+    "imageSrc": "history/advences.png"
+  }
+]
